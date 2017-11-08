@@ -1,0 +1,11 @@
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\bin\Debug\netcoreapp2.0\ControleDePonto.deps.json
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\bin\Debug\netcoreapp2.0\ControleDePonto.runtimeconfig.json
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\bin\Debug\netcoreapp2.0\ControleDePonto.runtimeconfig.dev.json
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\bin\Debug\netcoreapp2.0\ControleDePonto.dll
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\bin\Debug\netcoreapp2.0\ControleDePonto.pdb
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.csprojResolveAssemblyReference.cache
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.csproj.CoreCompileInputs.cache
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.AssemblyInfoInputs.cache
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.AssemblyInfo.cs
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.dll
+C:\Users\Larissa Targino\Documents\controle_de_ponto\backend\ControleDePonto\ControleDePonto\obj\Debug\netcoreapp2.0\ControleDePonto.pdb
